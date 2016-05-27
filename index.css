@@ -31,7 +31,7 @@ header{
 /*img{
 	margin-top: 20px;
 }*/
-.navbar-brand{
+.brand-name{
 	padding-left: 175px;
 }
 .aim{
@@ -42,4 +42,7 @@ header{
 .headpic{
 	margin-top: 20px;
 	width:200px
+}
+.contact{
+	color:black;
 }

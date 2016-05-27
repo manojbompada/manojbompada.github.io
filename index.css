@@ -1,7 +1,7 @@
 body{
     
-    background-color: #3c765d;
-    color: #080808;
+    background-color: rgba(0,0,0,1);
+    color: #ffffff;
     font-family: 'Chivo', sans-serif;
     font-size: 20px;
     background-repeat: no-repeat;  
@@ -15,3 +15,31 @@ body{
     50%  {background-color: blue;}
     100% {background-color: green;}
 }*/
+nav{
+	margin: 1px 3px;
+}
+.container-fluid{
+	
+}
+header{
+	margin-top: 70px;
+}
+.headbox{
+	background-color: rgba(255,255,255,0.33);
+	background-image: url("https://lh5.googleusercontent.com/-yk-Os2o8U3o/VMZ4lsiIElI/AAAAAAAABA0/gCab2oPultQ/s1600/3d-blue-3d-transparent-cubes-wallpaper-wallpapertube.jpg");
+}
+/*img{
+	margin-top: 20px;
+}*/
+.navbar-brand{
+	padding-left: 175px;
+}
+.aim{
+	padding-top: 60px;
+	padding-right: 0px;
+	color: white;
+}
+.headpic{
+	margin-top: 20px;
+	width:200px
+}

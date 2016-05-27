@@ -3,5 +3,15 @@ body{
     background-color: #3c765d;
     color: #080808;
     font-family: 'Chivo', sans-serif;
-    font-size: 20px    
+    font-size: 20px;
+    background-repeat: no-repeat;  
+   /* animation-name: example;
+    animation-duration: 10s; 
+    animation-iteration-count: 3;*/
 }
+/*@keyframes example {
+     0%   {background-color: red;}
+    25%  {background-color: yellow;}
+    50%  {background-color: blue;}
+    100% {background-color: green;}
+}*/

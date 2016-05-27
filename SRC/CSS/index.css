@@ -47,3 +47,16 @@ header{
 .contact{
 	color:black;
 }
+.projectdesc{
+	border: 5px solid yellow;
+	border-radius: 2em;
+	padding-left: 25px;
+	background-color: black;
+	/*background-image: url("https://www.scu.edu/media/offices/uss/images/goods-and-price-list-image.png");*/
+
+}
+#todopic{
+	padding: 100px;
+	background-image: url("https://www.scu.edu/media/offices/uss/images/goods-and-price-list-image.png");
+
+}
